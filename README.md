@@ -1,8 +1,8 @@
 To Learn 
 ======
--[] Data Science
--[] Machine Learning
--[] Rust
+- [ ] Data Science
+- [ ] Machine Learning
+- [ ] Rust
 
 In Progress
 ------
